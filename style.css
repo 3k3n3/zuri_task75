@@ -328,9 +328,6 @@ footer #link1 a:hover,
 }
 
 @media (max-width:450px) {
-    * {
-        border: 1px solid pink;
-    }
 
     header {
         padding: 2% 5%;
