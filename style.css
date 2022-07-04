@@ -339,11 +339,6 @@ footer #link1 a:hover,
         /* margin: -15%; */
         margin-bottom: 10%;
         align-content: stretch;
-        border: 1px solid greenyellow;
-        /* display: flex; */
-        /* flex-direction: column; */
-        /* display: flex;
-        justify-content: flex-start; */
     }
 
     header .hero_header a img {
